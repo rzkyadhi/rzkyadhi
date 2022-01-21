@@ -40,9 +40,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="rzkyadhi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rzkyadhi&show_icons=true&hide_border=true" />
+  <img align="left" alt="rzkyadhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzkyadhi&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://frontend-rizky.web.app
 [linkedin]: https://www.linkedin.com/in/rzkyadhi/
+[rzkyadhi's GitHub stats]: (https://github-readme-stats.vercel.app/api?username=rzkyadhi)
