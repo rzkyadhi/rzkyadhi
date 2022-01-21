@@ -1,6 +1,8 @@
 ### Hi there, I'm Rizky Adhi 👋 
 
 [![Website](https://img.shields.io/website?label=frontend-rizky.web.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://frontend-rizky.web.app)
+[![ProfileViews](https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square)](https://github.com/rzkyadhi)
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square" />
 
 ## I'm a Data Science and Student Forever!!
 
@@ -32,7 +34,7 @@
 
 <img width="420" alt="rzkyadhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzkyadhi&show_icons=true&hide_border=true&theme=radical" />&nbsp;
 <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyadhi&theme=radical&layout=compact" />
-<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square" />
+<img align="center" alt="Profile Views" src="" />
 
 [website]: https://frontend-rizky.web.app
 [linkedin]: https://www.linkedin.com/in/rzkyadhi/
