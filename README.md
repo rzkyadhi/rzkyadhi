@@ -18,6 +18,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
@@ -33,7 +34,7 @@
 ### Github Summary:
 
 <img width="420" alt="rzkyadhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzkyadhi&show_icons=true&hide_border=true&theme=radical" />&nbsp;
-<img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyadhi&theme=radical&layout=compact" />
+<img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyadhi&hide_border=true&theme=radical&layout=compact" />
 
 [website]: https://frontend-rizky.web.app
 [linkedin]: https://www.linkedin.com/in/rzkyadhi/
