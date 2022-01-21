@@ -31,7 +31,11 @@
 ### Github Summary:
 
 <img align="left" alt="rzkyadhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzkyadhi&show_icons=true&hide_border=true" />
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyadhi&layout=compact" />
+<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square" />
 
 [website]: https://frontend-rizky.web.app
 [linkedin]: https://www.linkedin.com/in/rzkyadhi/
-[rzkyadhi's GitHub stats]: (https://github-readme-stats.vercel.app/api?username=rzkyadhi)
+[rzkyadhi's GitHub stats]: https://github-readme-stats.vercel.app/api?username=rzkyadhi
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyadhi&layout=compact
+[Profile Views]: https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square
