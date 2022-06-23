@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=frontend-rizky.web.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://frontend-rizky.web.app)
 [![ProfileViews](https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square)](https://github.com/rzkyadhi)
 
-## I'm a Junior Backend Developer and Student Forever!!
+## I'm a Programming Nerd and Student Forever!!
 
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to land my first job in tech
-- 🥅 2022 Goals: Land my first job as a Backend Developer
+- 🌱 I’m currently learning C#, Database Design, etc.
+- 👯 Currently working as a Junior Application Developer
+- 🥅 2022 Goals: On my way become Fullstack Developer !
 - ⚡ Fun fact: I love to play game and watch movies
 
 ### Connect with me:
