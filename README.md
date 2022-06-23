@@ -35,6 +35,6 @@
 
 [website]: https://frontend-rizky.web.app
 [linkedin]: https://www.linkedin.com/in/rzkyadhi/
-[rzkyadhi's GitHub stats]: https://github-readme-stats.vercel.app/api?username=rzkyadhi
+[rzkyadhi's GitHub stats]: https://github-readme-stats.vercel.app/api?username=rzkyadhi&count_private=true
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyadhi&langs_count=8&layout=compact
 [Profile Views]: https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square
